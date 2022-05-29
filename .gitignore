@@ -1,0 +1,6 @@
+# Ignore DB password
+db_password.txt
+
+# Ignore python venv as well as pycache
+product-service/src/__pycache__
+product-service/venv
